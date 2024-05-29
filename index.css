@@ -1,0 +1,58 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing:0;
+}
+.container{
+    width:550px;
+    height: 729px;
+   
+    margin:auto;
+}
+.header{
+ 
+    background-color:#6943FF;
+    color:white;
+    text-align: center;
+    padding: 15px;
+ 
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+input{
+border: 1px solid white;
+
+font-size: 25px;
+width: 80px;
+border-radius: 5px;
+font-weight: bold;
+text-align: center;
+}
+
+#convert-btn{
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+   
+}
+
+.units{
+   
+    text-align: center;
+  
+    
+}
+.box{
+    width: 500px;
+    height: 109px;
+    background-color:rgb(241, 232, 232);
+    margin: auto;
+    padding: 10px;
+    
+}
+
